@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img src="https://github.com/mogrady-git/student-manager-2.0/blob/master/demo-student-manager.gif" width="100%"/>
+
 ## Available Scripts
 
 In the project directory, you can run:
