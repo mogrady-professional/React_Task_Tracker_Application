@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img src="https://github.com/mogrady-professional/React_Task_Tracker_Application/blob/master/src/Capture2.PNG" width="100%"/>
 
+## Instructions - Run on localhost with node
+> npm start
+> npm i json-server -g
+> npm run server    
+> refresh http://localhost:3000
+
 ## Available Scripts
 
 In the project directory, you can run:
