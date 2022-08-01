@@ -11,9 +11,9 @@ The application adds/removes tasks from the local JSON file. Perfect example of 
 # Instructions
 
 - clone repo
-- run `npm install`
-- run `npm run server` to start up the JSON Server
-- run `npm run start` to start up the frontend UI
+- run `yarn install`
+- run `yarn run server` to start up the JSON Server
+- run `yarn run start` to start up the frontend UI
 
 <h1 align="center">
 <img src="images/react-task-tracker_psd.png"  height="auto" width="100%">
