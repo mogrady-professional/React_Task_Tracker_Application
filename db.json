@@ -13,40 +13,10 @@
       "id": 2
     },
     {
-      "text": "Create the Widget Controller",
-      "day": "Tuesday June 1st 11:00am",
-      "reminder": true,
-      "id": 3
-    },
-    {
-      "text": "Create the Widget API Controller",
-      "day": "Tuesday June 1st 11:55am",
-      "reminder": true,
-      "id": 4
-    },
-    {
-      "text": "Create Entity Framework Code",
-      "day": "Tuesday June 1st 2:00pm",
-      "reminder": true,
-      "id": 5
-    },
-    {
-      "text": "Run Build",
-      "day": "Tuesday June 1st 2:35pm",
-      "reminder": true,
-      "id": 6
-    },
-    {
       "text": "Deploy to Production",
       "day": "Tuesday June 1st 3:35pm",
       "reminder": true,
       "id": 7
-    },
-    {
-      "text": "User Acceptance Testing",
-      "day": "Tuesday June 1st 3:59pm",
-      "reminder": true,
-      "id": 8
     }
   ]
 }
